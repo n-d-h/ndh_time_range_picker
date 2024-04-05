@@ -1,6 +1,6 @@
 import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
-import 'package:ndh_time_range_picker/time_range_picker.dart';
+import 'package:ndh_time_range_picker/ndh_time_range_picker.dart';
 import 'package:flutter/cupertino.dart';
 
 void main() {
